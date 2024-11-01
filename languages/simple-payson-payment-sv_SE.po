@@ -1,0 +1,309 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Migrate DB Pro\n"
+"POT-Creation-Date: 2014-09-05 23:15+0100\n"
+"PO-Revision-Date: 2014-09-05 23:15+0100\n"
+"Last-Translator: Leander Lindahl <leander@popolo.se>\n"
+"Language-Team: Delicious Brains <nom@deliciousbrains.com>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shortcode_view.php:120
+msgid ""
+"Payson transaction failed due to a configuration error. Please notify the "
+"site's owner."
+msgstr ""
+"Payson betalningen misslyckades. Vänligen informera webbplatsens ägare."
+
+#: shortcode_view.php:155
+msgid ""
+"Error! Please enter your Payson email address for the payment using the "
+"\"email\" parameter in the shortcode"
+msgstr ""
+
+#: shortcode_view.php:160
+msgid ""
+"Error! Please enter a description for the payment using the \"description\" "
+"parameter in the shortcode"
+msgstr ""
+
+#: simple_payson_payment.php:29
+msgid "Gold Service - SEK 200"
+msgstr "Guldservice – SEK 200"
+
+#: simple_payson_payment.php:31
+msgid "Platinum Service - SEK 300"
+msgstr "Platinum Service – SEK 300"
+
+#: simple_payson_payment.php:34 simple_payson_payment.php:482
+#: simple_payson_payment.php:483
+msgid "Simple Payson Payment"
+msgstr "Simple Payson Payment"
+
+#: simple_payson_payment.php:41
+msgid "Payment reference"
+msgstr "Betalningsreferens"
+
+#: simple_payson_payment.php:141
+msgid "Other Amount:"
+msgstr "Annat belopp:"
+
+#: simple_payson_payment.php:151
+msgid "E-mail"
+msgstr "E-post"
+
+#: simple_payson_payment.php:152
+msgid "First name"
+msgstr "Förnamn"
+
+#: simple_payson_payment.php:153
+msgid "Last name"
+msgstr "Efternamn"
+
+#: simple_payson_payment.php:247
+msgid "Simple Payson Payment Settings v"
+msgstr "Inställningar för Simple Payson Payment version"
+
+#: simple_payson_payment.php:251
+msgid "How to use the plugin"
+msgstr "Så använder du tillägget"
+
+#: simple_payson_payment.php:253
+msgid "Add the shortcode"
+msgstr "Lägg till shortcode:n"
+
+#: simple_payson_payment.php:253
+msgid "to a post or page"
+msgstr "på ett inlägg eller en sida"
+
+#: simple_payson_payment.php:254
+msgid ""
+"Use the <strong>Simple Payson Payment</strong> Widget from the Widgets menu"
+msgstr ""
+"Använd <strong>Simple Payson Payment</strong> widgeten via Widgets-menyn"
+
+#: simple_payson_payment.php:260
+msgid "Plugin Options"
+msgstr "Inställningar för tillägg"
+
+#: simple_payson_payment.php:260
+msgid "Widget Title"
+msgstr "Titel på widget"
+
+#: simple_payson_payment.php:262
+msgid "This will be the title of the Widget on the Sidebar if you use it."
+msgstr ""
+"Det här kommer att vara titeln på widgeten i sidospalten om du använder den."
+
+#: simple_payson_payment.php:267
+msgid "Payson Email address:"
+msgstr "Payson e-postadress:"
+
+#: simple_payson_payment.php:271
+msgid "This is the payson Email address where the payments will go"
+msgstr ""
+"Det här är den e-postadress hos payson till vilken betalningarna kommer att "
+"skickas"
+
+#: simple_payson_payment.php:277
+msgid "Payson agentID:"
+msgstr "Payson agentID:"
+
+#: simple_payson_payment.php:281
+msgid "Provide your Payson agentID"
+msgstr "Ange Payson agentID"
+
+#: simple_payson_payment.php:287
+msgid "Payson md5Key:"
+msgstr "Payson md5Key:"
+
+#: simple_payson_payment.php:291
+msgid "Provide your Payson md5key"
+msgstr "Ange Payson md5key"
+
+#: simple_payson_payment.php:312
+msgid "Payment Subject"
+msgstr "Ämnesrad för betalning"
+
+#: simple_payson_payment.php:316
+msgid ""
+"Enter the Product or service name or the reason for the payment here. The "
+"visitors will see this text"
+msgstr ""
+"Ange produkten, tjänsten eller anledningen till betalningen här. Besökarna "
+"kommer att se den här texten"
+
+#: simple_payson_payment.php:321 simple_payson_payment.php:330
+#: simple_payson_payment.php:339 simple_payson_payment.php:348
+#: simple_payson_payment.php:357 simple_payson_payment.php:366
+msgid "Payment Option"
+msgstr "Betalninsalternativ"
+
+#: simple_payson_payment.php:324 simple_payson_payment.php:333
+#: simple_payson_payment.php:342 simple_payson_payment.php:351
+#: simple_payson_payment.php:360 simple_payson_payment.php:369
+msgid "Price"
+msgstr "Pris"
+
+#: simple_payson_payment.php:371
+msgid ""
+"Enter the name of the service or product and the price. eg. Enter \"Basic "
+"service - $10\" in the Payment Option text box and \"10.00\" in the price "
+"text box to accept a payment of $10 for \"Basic service\". Leave the Payment "
+"Option and Price fields empty if u don't want to use that option. For "
+"example, if you have 3 price options then fill in the top 3 and leave the "
+"rest empty."
+msgstr ""
+"Ange namnet på tjänsten eller produkten och dess pris. Skriv exempelvis "
+"\"Grunderbjudande - SEK 100\" i betalningsalternativ-rutan och \"100.00\" i "
+"prisrutan för att ta emot en betalning på SEK 100,- för \"Grunderbjudande\". "
+"Lämna betalningsalternativ och pris tomma om du inte vill använda dem. Om du "
+"t ex har tre betalningsalternativ fyller du i de första tre rutorna och "
+"lämnar de övriga tomma."
+
+#: simple_payson_payment.php:376
+msgid "Show Other Amount"
+msgstr "Visa fältet Annat belopp"
+
+#: simple_payson_payment.php:379
+msgid ""
+"Tick this checkbox if you want to show other amount text box to your "
+"visitors so they can enter custom amount."
+msgstr ""
+"Kryssa i den här rutan om du vill visa rutan för \"annat belopp\" så att "
+"besökarna kan ange ett anpassat belopp."
+
+#: simple_payson_payment.php:385
+msgid "Show Reference Text Box"
+msgstr "Visa fältet betalningsreferens"
+
+#: simple_payson_payment.php:388
+msgid ""
+"Tick this checkbox if you want your visitors to be able to enter a reference "
+"text like email or web address."
+msgstr ""
+"Kryssa i den här rutan om du vill att dina besökare ska kunna ange en "
+"referenstext som en e-postadress eller en webbadress."
+
+#: simple_payson_payment.php:393
+msgid "Reference Text Box Title"
+msgstr "Titel på rutan för betalningsreferens"
+
+#: simple_payson_payment.php:396
+msgid ""
+"Enter a title for the Reference text box (ie. Your Information). The "
+"visitors will see this text"
+msgstr ""
+"Titel på referenstextrutan (t ex dina uppgifter). Besökarna kommer att se "
+"den här texten"
+
+#: simple_payson_payment.php:403
+msgid "Choose a Submit Button Type"
+msgstr "Välj skicka-knapp"
+
+#: simple_payson_payment.php:404
+msgid ""
+"This is the button the visitors will click on to make Payments or Donations."
+msgstr ""
+"Det här är den knapp som besökarna kommer att använda för att göra sina "
+"betalningar eller donationer."
+
+#: simple_payson_payment.php:423
+msgid "Return URL from payson"
+msgstr "Retur-URL från Payson"
+
+#: simple_payson_payment.php:425
+msgid ""
+"Enter a return URL (could be a Thank You page). Payson will redirect "
+"visitors to this page after Payment"
+msgstr ""
+"Ange en retur-URL, t ex en Tack för din betalning-sida. Payson kommer att "
+"skicka tillbaka besökare till den här sidan efter att betalningen är "
+"genomförd"
+
+#: simple_payson_payment.php:426
+msgid "Cancel URL from payson"
+msgstr "Avbryt betalning-URL från Payson"
+
+#: simple_payson_payment.php:428
+#, fuzzy
+msgid ""
+"Enter a cancel URL. Payson will redirect visitors to this page if the cancel "
+"the payment process"
+msgstr ""
+"Ange en retur-URL, t ex en \"Tack för din betalning\"-sida. Payson kommer "
+"att skicka tillbaka besökare till den här sidan efter att betalningen är "
+"genomförd."
+
+#: simple_payson_payment.php:435
+msgid "Update options"
+msgstr "Uppdatera inställningar"
+
+#: simple_payson_payment.php:440
+msgid ""
+"For usage documentation and updates, please visit the plugin page at the "
+"following URL:"
+msgstr ""
+"För dokumentation och uppdateringar, var vänlig besök tillägets sida på "
+"följande URL:"
+
+#: simple_payson_payment.php:462
+msgid "Set the Plugin Settings from the Settings menu"
+msgstr "Konfigurera tillägget från menyn Inställningar"
+
+#: simple_payson_payment.php:481
+msgid "Simple Payson Payment."
+msgstr "Simple Payson Payment."
+
+#~ msgid "Choose Payment Currency"
+#~ msgstr "Välj valuta för betalningen"
+
+#~ msgid "US Dollar"
+#~ msgstr "US Dollar"
+
+#~ msgid "Pound Sterling"
+#~ msgstr "Brittiska Pund"
+
+#~ msgid "Euro"
+#~ msgstr "Euro"
+
+#~ msgid "Swedish krona"
+#~ msgstr "Svenska kronor"
+
+#~ msgid "Your Email Address"
+#~ msgstr "Din e-postadress"
+
+#~ msgid "There are a few ways you can use this plugin:"
+#~ msgstr "Det finns ett par olika sätt att använda det här tillägget:"
+
+#~ msgid "Call the function from a template file:"
+#~ msgstr "Anropa funktionen från en template-fil:"
+
+#~ msgid ""
+#~ "Use the shortcode with custom parameter option to add multiple different "
+#~ "payment widgets in different areas of the site."
+#~ msgstr ""
+#~ "Använd shortcode:n med en anpassad parameter option för att lägga till "
+#~ "flera olika betalningswidgetar i olika delar av webbplatsen."
+
+#~ msgid "View documentation"
+#~ msgstr "Se dokumentation"
+
+#~ msgid "Plugin Usage:"
+#~ msgstr "Så använder du tillägget:"
+
+#~ msgid "WP payson Payment or Donation Accept Plugin Options"
+#~ msgstr "Simple Payson Payment – Inställningar för tillägg"
+
+#~ msgid "WP payson Payment Widget Title"
+#~ msgstr "Simple Payson Payment – titel på widget"

@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Migrate DB Pro\n"
+"POT-Creation-Date: 2014-09-05 23:15+0100\n"
+"PO-Revision-Date: 2014-09-05 23:15+0100\n"
+"Last-Translator: Leander Lindahl <leander@popolo.se>\n"
+"Language-Team: Delicious Brains <nom@deliciousbrains.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shortcode_view.php:120
+msgid ""
+"Payson transaction failed due to a configuration error. Please notify the "
+"site's owner."
+msgstr ""
+
+#: shortcode_view.php:155
+msgid ""
+"Error! Please enter your Payson email address for the payment using the "
+"\"email\" parameter in the shortcode"
+msgstr ""
+
+#: shortcode_view.php:160
+msgid ""
+"Error! Please enter a description for the payment using the \"description\" "
+"parameter in the shortcode"
+msgstr ""
+
+#: simple_payson_payment.php:29
+msgid "Gold Service - SEK 200"
+msgstr ""
+
+#: simple_payson_payment.php:31
+msgid "Platinum Service - SEK 300"
+msgstr ""
+
+#: simple_payson_payment.php:34 simple_payson_payment.php:482
+#: simple_payson_payment.php:483
+msgid "Simple Payson Payment"
+msgstr ""
+
+#: simple_payson_payment.php:41
+msgid "Payment reference"
+msgstr ""
+
+#: simple_payson_payment.php:141
+msgid "Other Amount:"
+msgstr ""
+
+#: simple_payson_payment.php:151
+msgid "E-mail"
+msgstr ""
+
+#: simple_payson_payment.php:152
+msgid "First name"
+msgstr ""
+
+#: simple_payson_payment.php:153
+msgid "Last name"
+msgstr ""
+
+#: simple_payson_payment.php:247
+msgid "Simple Payson Payment Settings v"
+msgstr ""
+
+#: simple_payson_payment.php:251
+msgid "How to use the plugin"
+msgstr ""
+
+#: simple_payson_payment.php:253
+msgid "Add the shortcode"
+msgstr ""
+
+#: simple_payson_payment.php:253
+msgid "to a post or page"
+msgstr ""
+
+#: simple_payson_payment.php:254
+msgid ""
+"Use the <strong>Simple Payson Payment</strong> Widget from the Widgets menu"
+msgstr ""
+
+#: simple_payson_payment.php:260
+msgid "Plugin Options"
+msgstr ""
+
+#: simple_payson_payment.php:260
+msgid "Widget Title"
+msgstr ""
+
+#: simple_payson_payment.php:262
+msgid "This will be the title of the Widget on the Sidebar if you use it."
+msgstr ""
+
+#: simple_payson_payment.php:267
+msgid "Payson Email address:"
+msgstr ""
+
+#: simple_payson_payment.php:271
+msgid "This is the payson Email address where the payments will go"
+msgstr ""
+
+#: simple_payson_payment.php:277
+msgid "Payson agentID:"
+msgstr ""
+
+#: simple_payson_payment.php:281
+msgid "Provide your Payson agentID"
+msgstr ""
+
+#: simple_payson_payment.php:287
+msgid "Payson md5Key:"
+msgstr ""
+
+#: simple_payson_payment.php:291
+msgid "Provide your Payson md5key"
+msgstr ""
+
+#: simple_payson_payment.php:312
+msgid "Payment Subject"
+msgstr ""
+
+#: simple_payson_payment.php:316
+msgid ""
+"Enter the Product or service name or the reason for the payment here. The "
+"visitors will see this text"
+msgstr ""
+
+#: simple_payson_payment.php:321 simple_payson_payment.php:330
+#: simple_payson_payment.php:339 simple_payson_payment.php:348
+#: simple_payson_payment.php:357 simple_payson_payment.php:366
+msgid "Payment Option"
+msgstr ""
+
+#: simple_payson_payment.php:324 simple_payson_payment.php:333
+#: simple_payson_payment.php:342 simple_payson_payment.php:351
+#: simple_payson_payment.php:360 simple_payson_payment.php:369
+msgid "Price"
+msgstr ""
+
+#: simple_payson_payment.php:371
+msgid ""
+"Enter the name of the service or product and the price. eg. Enter \"Basic "
+"service - $10\" in the Payment Option text box and \"10.00\" in the price "
+"text box to accept a payment of $10 for \"Basic service\". Leave the Payment "
+"Option and Price fields empty if u don't want to use that option. For "
+"example, if you have 3 price options then fill in the top 3 and leave the "
+"rest empty."
+msgstr ""
+
+#: simple_payson_payment.php:376
+msgid "Show Other Amount"
+msgstr ""
+
+#: simple_payson_payment.php:379
+msgid ""
+"Tick this checkbox if you want to show other amount text box to your "
+"visitors so they can enter custom amount."
+msgstr ""
+
+#: simple_payson_payment.php:385
+msgid "Show Reference Text Box"
+msgstr ""
+
+#: simple_payson_payment.php:388
+msgid ""
+"Tick this checkbox if you want your visitors to be able to enter a reference "
+"text like email or web address."
+msgstr ""
+
+#: simple_payson_payment.php:393
+msgid "Reference Text Box Title"
+msgstr ""
+
+#: simple_payson_payment.php:396
+msgid ""
+"Enter a title for the Reference text box (ie. Your Information). The "
+"visitors will see this text"
+msgstr ""
+
+#: simple_payson_payment.php:403
+msgid "Choose a Submit Button Type"
+msgstr ""
+
+#: simple_payson_payment.php:404
+msgid ""
+"This is the button the visitors will click on to make Payments or Donations."
+msgstr ""
+
+#: simple_payson_payment.php:423
+msgid "Return URL from payson"
+msgstr ""
+
+#: simple_payson_payment.php:425
+msgid ""
+"Enter a return URL (could be a Thank You page). Payson will redirect "
+"visitors to this page after Payment"
+msgstr ""
+
+#: simple_payson_payment.php:426
+msgid "Cancel URL from payson"
+msgstr ""
+
+#: simple_payson_payment.php:428
+msgid ""
+"Enter a cancel URL. Payson will redirect visitors to this page if the cancel "
+"the payment process"
+msgstr ""
+
+#: simple_payson_payment.php:435
+msgid "Update options"
+msgstr ""
+
+#: simple_payson_payment.php:440
+msgid ""
+"For usage documentation and updates, please visit the plugin page at the "
+"following URL:"
+msgstr ""
+
+#: simple_payson_payment.php:462
+msgid "Set the Plugin Settings from the Settings menu"
+msgstr ""
+
+#: simple_payson_payment.php:481
+msgid "Simple Payson Payment."
+msgstr ""
